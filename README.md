@@ -1,1 +1,1 @@
-# ovuk-design-system-discussions-prototype
+# govuk-design-system-discussions-prototype
